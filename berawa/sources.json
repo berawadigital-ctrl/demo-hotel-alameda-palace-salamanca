@@ -1,0 +1,48 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelalamedapalace.com/",
+ "read_at": "2026-10-29T05:40:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelalamedapalace.com/",
+   "sha256": "0815b39f5b3715c5108a4649fc8ba1d8bbc615b7f6dc7bdf5912479bd3598a30",
+   "chars": 4007
+  },
+  {
+   "url": "https://www.hotelalamedapalace.com/aviso-legal/",
+   "sha256": "171653fbd424c0dbb746c615d1c0ae6cbfb8b527c1f740b387e35ced7efec0e2",
+   "chars": 6508
+  },
+  {
+   "url": "https://www.hotelalamedapalace.com/bodas-eventos/",
+   "sha256": "05a2f3a2cec3d04e16005c016f8d4d04a31d178fe180bc5ec4206e3948ec3ae3",
+   "chars": 3822
+  },
+  {
+   "url": "https://www.hotelalamedapalace.com/contacto/",
+   "sha256": "37b6826ff8e699ecfbee5cd10b8d8f2847336dcdc0a448d820fd37ea1eeb22fe",
+   "chars": 2660
+  },
+  {
+   "url": "https://www.hotelalamedapalace.com/habitaciones/",
+   "sha256": "75bc31485e525abd671df983b4a8f83bba993a03955526efc0bfaeeacffe59f9",
+   "chars": 4701
+  },
+  {
+   "url": "https://www.hotelalamedapalace.com/ubicacion/",
+   "sha256": "7a00fa3fee34e5efd4afaeb334e934b8f8d2a6545ede0d8b43228974ef28eb24",
+   "chars": 3976
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelalamedapalace.com",
+  "https://www.hotelalamedapalace.com/en/",
+  "https://www.hotelalamedapalace.com/en/offers/",
+  "https://www.hotelalamedapalace.com/en/rooms/",
+  "https://www.hotelalamedapalace.com/galeria/",
+  "https://www.hotelalamedapalace.com/ofertas/",
+  "https://www.hotelalamedapalace.com/restaurante/",
+  "https://www.hotelalamedapalace.com/signup/"
+ ]
+}

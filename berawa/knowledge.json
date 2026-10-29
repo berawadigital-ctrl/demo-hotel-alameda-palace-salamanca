@@ -1,0 +1,656 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-alameda-palace-salamanca",
+ "source_site": "https://www.hotelalamedapalace.com/",
+ "source_read_at": "2026-10-29T05:40:00+01:00",
+ "note": "Respuestas solo con datos publicados en hotelalamedapalace.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "cuantas habitaciones",
+     "que habitaciones",
+     "tipos de habitacion",
+     "suite",
+     "triple",
+     "doble",
+     "cama de matrimonio",
+     "vista panoramica",
+     "estrellas"
+    ],
+    "ca": [
+     "quantes habitacions",
+     "quines habitacions",
+     "tipus d habitacio",
+     "suite",
+     "triple",
+     "doble",
+     "llit de matrimoni",
+     "vista panoramica",
+     "estrelles"
+    ],
+    "en": [
+     "how many rooms",
+     "what rooms",
+     "room types",
+     "suite",
+     "triple",
+     "double",
+     "double bed",
+     "panoramic view",
+     "stars"
+    ],
+    "fr": [
+     "combien de chambres",
+     "quelles chambres",
+     "types de chambre",
+     "suite",
+     "triple",
+     "double",
+     "lit double",
+     "vue panoramique",
+     "etoiles"
+    ]
+   },
+   "a": {
+    "es": "Tiene 103 habitaciones de 7 tipos: dobles con cama de matrimonio (cama doble de 150 cm, hasta 2 personas), dobles de 2 camas (20 m²), suites de 40 m² (28 suites), triples (hasta 3 personas) y versiones con vista panorámica.",
+    "ca": "Té 103 habitacions de 7 tipus: dobles amb llit de matrimoni (llit doble de 150 cm, fins a 2 persones), dobles de 2 llits (20 m²), suites de 40 m² (28 suites), triples (fins a 3 persones) i versions amb vista panoràmica.",
+    "en": "It has 103 rooms of 7 types: doubles with a double bed (150 cm bed, up to 2 guests), twin rooms with 2 beds (20 m²), suites of 40 m² (28 suites), triples (up to 3 guests) and versions with a panoramic view.",
+    "fr": "Il compte 103 chambres de 7 types : doubles à lit double (lit de 150 cm, jusqu'à 2 personnes), doubles à 2 lits (20 m²), suites de 40 m² (28 suites), triples (jusqu'à 3 personnes) et versions avec vue panoramique."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/habitaciones/",
+     "quote": "103 habitaciones de 7 tipos"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/habitaciones/",
+     "quote": "Doble cama de matrimonio Max. 2 personas 1 cama doble (150cm)"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/habitaciones/",
+     "quote": "Doble 2 camas Max. 2 personas 20m 2 2 camas individuales"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/habitaciones/",
+     "quote": "Suite Max. 2 personas 40m 2 2 camas individuales consta de 28 fantásticas suites"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/habitaciones/",
+     "quote": "Triple Max. 3 personas 1 cama individual y 1 cama doble"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/habitaciones/",
+     "quote": "Nuestras habitaciones con dos camas ofrecen vistas al Parque de la Alamedilla y centro de la ciudad en su opción de planta alta"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/",
+     "quote": "tu hotel de 5 estrellas en Salamanca"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "equipamiento",
+     "minibar",
+     "caja fuerte",
+     "aire acondicionado",
+     "hidromasaje",
+     " tv ",
+     "wifi",
+     "wi fi",
+     "insonoriz",
+     "escritorio",
+     "servicio de habitaciones"
+    ],
+    "ca": [
+     "equipament",
+     "minibar",
+     "caixa forta",
+     "aire condicionat",
+     "hidromassatge",
+     " tv ",
+     "wifi",
+     "wi fi",
+     "insonoritz",
+     "escriptori",
+     "servei d habitacions"
+    ],
+    "en": [
+     "equipment",
+     "minibar",
+     "safe",
+     "air conditioning",
+     "hydromassage",
+     " tv ",
+     "wifi",
+     "wi fi",
+     "soundproof",
+     "desk",
+     "room service"
+    ],
+    "fr": [
+     "equipement",
+     "minibar",
+     "coffre",
+     "climatisation",
+     "hydromassage",
+     " tv ",
+     "wifi",
+     "wi fi",
+     "insonoris",
+     "bureau",
+     "service en chambre"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones tienen wifi gratuita, TV, minibar, ventanas insonorizadas, caja fuerte y columnas de hidromasaje en los baños de mármol. Las suites añaden sala de estar independiente, bañera de hidromasaje y servicio de habitaciones.",
+    "ca": "Les habitacions tenen wifi gratuïta, TV, minibar, finestres insonoritzades, caixa forta i columnes d'hidromassatge als banys de marbre. Les suites afegeixen sala d'estar independent, banyera d'hidromassatge i servei d'habitacions.",
+    "en": "The rooms have free wifi, TV, minibar, soundproof windows, a safe and hydromassage columns in the marble bathrooms. The suites add an independent living room, a hydromassage bathtub and room service.",
+    "fr": "Les chambres disposent du wifi gratuit, de la TV, d'un minibar, de fenêtres insonorisées, d'un coffre-fort et de colonnes d'hydromassage dans les salles de bain en marbre. Les suites ajoutent un salon indépendant, une baignoire d'hydromassage et le service en chambre."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/habitaciones/",
+     "quote": "Las habitaciones elegantes y ornamentadas cuentan con conexión Wi-Fi gratuita, TV, minibar y ventanas insonorizadas. Todas ellas disponen de caja fuerte y columnas de hidromasaje en los baños de mármol. Las suites, además, ofrecen sala de estar independiente, bañera de hidromasaje y servicio de habitaciones."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "restaurante",
+   "keys": {
+    "es": [
+     "restaurante",
+     "venecia",
+     "cenar",
+     "comer",
+     "cocina",
+     "vino",
+     "carta"
+    ],
+    "ca": [
+     "restaurant",
+     "venecia",
+     "sopar",
+     "dinar",
+     "cuina",
+     "vi ",
+     "carta"
+    ],
+    "en": [
+     "restaurant",
+     "venecia",
+     "venice",
+     "dinner",
+     "lunch",
+     "cuisine",
+     "wine",
+     "menu"
+    ],
+    "fr": [
+     "restaurant",
+     "venecia",
+     "venise",
+     "diner",
+     "cuisine",
+     "vin ",
+     "carte"
+    ]
+   },
+   "a": {
+    "es": "Tiene el Restaurante Venecia, con cocina de autor y sabores de temporada, una carta de vinos D.O. y un ambiente bajo lámparas de cristal de Murano.",
+    "ca": "Té el Restaurant Venecia, amb cuina d'autor i sabors de temporada, una carta de vins D.O. i un ambient sota llums de vidre de Murano.",
+    "en": "It has the Venecia Restaurant, with signature cuisine and seasonal flavours, a D.O. wine list and an atmosphere under Murano glass lamps.",
+    "fr": "Il dispose du Restaurant Venecia, avec cuisine d'auteur et saveurs de saison, une carte de vins D.O. et une ambiance sous des lustres en verre de Murano."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/",
+     "quote": "Restaurante Venecia Cocina de autor y sabores de temporada"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/",
+     "quote": "nuestra cocina de autor se complementa con una selecta carta de vinos D.O. en un ambiente sofisticado bajo lámparas de cristal de Murano"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "eventos",
+   "keys": {
+    "es": [
+     "evento",
+     "salon",
+     "boda",
+     "banquete",
+     "reunion",
+     "congreso",
+     "pompeya",
+     "gaudi",
+     "azotea"
+    ],
+    "ca": [
+     "esdeveniment",
+     "salo",
+     "boda",
+     "banquet",
+     "reunio",
+     "congres",
+     "pompeya",
+     "gaudi",
+     "terrat"
+    ],
+    "en": [
+     "event",
+     "function room",
+     "wedding",
+     "banquet",
+     "meeting",
+     "congress",
+     "pompeya",
+     "gaudi",
+     "rooftop"
+    ],
+    "fr": [
+     "evenement",
+     "salle",
+     "mariage",
+     "banquet",
+     "reunion",
+     "congres",
+     "pompeya",
+     "gaudi",
+     "terrasse sur le toit"
+    ]
+   },
+   "a": {
+    "es": "Tiene salones para bodas y eventos: Pompeya (625 m², banquetes de hasta 400 personas), Cielo del Palace (azotea de 315 m² con vistas a las catedrales), Gaudí (160 m²), Venecia (185 m²) y Murano (185 m²).",
+    "ca": "Té salons per a noces i esdeveniments: Pompeya (625 m², banquets de fins a 400 persones), Cielo del Palace (terrat de 315 m² amb vistes a les catedrals), Gaudí (160 m²), Venecia (185 m²) i Murano (185 m²).",
+    "en": "It has rooms for weddings and events: Pompeya (625 m², banquets of up to 400 people), Cielo del Palace (a 315 m² rooftop with views of the cathedrals), Gaudí (160 m²), Venecia (185 m²) and Murano (185 m²).",
+    "fr": "Il dispose de salons pour mariages et événements : Pompeya (625 m², banquets jusqu'à 400 personnes), Cielo del Palace (toit-terrasse de 315 m² avec vue sur les cathédrales), Gaudí (160 m²), Venecia (185 m²) et Murano (185 m²)."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/bodas-eventos/",
+     "quote": "Sala Pompeya El salón más majestuoso del hotel, con 625 m² de superficie"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/bodas-eventos/",
+     "quote": "banquetes multitudinarios de hasta 400 personas"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/bodas-eventos/",
+     "quote": "Sala Cielo del Palace Situada en la azotea, esta sala de 315 m²"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/bodas-eventos/",
+     "quote": "Sala Gaudí Con 160 m²"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/bodas-eventos/",
+     "quote": "Sala Venecia Un ambiente cálido de 185 m²"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/bodas-eventos/",
+     "quote": "Sala Murano Con 185 m²"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "como llegar",
+     "mapa",
+     "estacion",
+     "aeropuerto",
+     "plaza mayor",
+     "centro",
+     "cerca"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "com arribar",
+     "mapa",
+     "estacio",
+     "aeroport",
+     "plaza mayor",
+     "centre",
+     "a prop"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "how to get",
+     "map",
+     "station",
+     "airport",
+     "plaza mayor",
+     "centre",
+     "near"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "comment arriver",
+     "plan",
+     "gare",
+     "aeroport",
+     "plaza mayor",
+     "centre",
+     "proche"
+    ]
+   },
+   "a": {
+    "es": "Está en el Paseo de la Estación 1, 37004 Salamanca: a 10 minutos a pie de la Plaza Mayor, la Universidad y las Catedrales, y a 300 metros de la principal zona comercial. El aeropuerto de Salamanca (Matacán) está a unos 15 minutos en coche.",
+    "ca": "És al Paseo de la Estación 1, 37004 Salamanca: a 10 minuts a peu de la Plaza Mayor, la Universitat i les Catedrals, i a 300 metres de la principal zona comercial. L'aeroport de Salamanca (Matacán) és a uns 15 minuts en cotxe.",
+    "en": "It is at Paseo de la Estación 1, 37004 Salamanca: 10 minutes on foot from the Plaza Mayor, the University and the Cathedrals, and 300 metres from the main shopping area. Salamanca airport (Matacán) is about 15 minutes by car.",
+    "fr": "Il se trouve Paseo de la Estación 1, 37004 Salamanque : à 10 minutes à pied de la Plaza Mayor, de l'Université et des Cathédrales, et à 300 mètres de la principale zone commerciale. L'aéroport de Salamanque (Matacán) est à environ 15 minutes en voiture."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/contacto/",
+     "quote": "Paseo de la Estación, nº1 37004, Salamanca"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/",
+     "quote": "a solo 10 minutos de la Plaza Mayor, la Universidad y las Catedrales, y a 300 metros de la principal zona comercial"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/ubicacion/",
+     "quote": "El Aeropuerto de Salamanca (Matacán) se sitúa a unos 15 minutos en coche."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "palacete",
+     "prada",
+     "edificio",
+     "palacio"
+    ],
+    "ca": [
+     "historia",
+     "palauet",
+     "prada",
+     "edifici",
+     "palau"
+    ],
+    "en": [
+     "history",
+     "mansion",
+     "prada",
+     "building",
+     "palace"
+    ],
+    "fr": [
+     "histoire",
+     "palacete",
+     "prada",
+     "batiment",
+     "palais"
+    ]
+   },
+   "a": {
+    "es": "Su web lo presenta como un alojamiento de 5 estrellas ubicado en el antiguo Palacete de los Prada.",
+    "ca": "La seva web el presenta com un allotjament de 5 estrelles ubicat a l'antic Palauet dels Prada.",
+    "en": "Its website presents it as a 5-star accommodation located in the former Prada Mansion (Palacete de los Prada).",
+    "fr": "Son site le présente comme un hébergement 5 étoiles situé dans l'ancien Palacete de los Prada."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/",
+     "quote": "Un alojamiento de 5 estrellas con alma, ubicado en el antiguo Palacete de los Prada."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "entorno",
+   "keys": {
+    "es": [
+     "visitar",
+     "que ver",
+     "excursion",
+     "escapada",
+     "alberca",
+     "batuecas",
+     "ciudad rodrigo",
+     "bejar",
+     "arribes"
+    ],
+    "ca": [
+     "visitar",
+     "que veure",
+     "excursio",
+     "escapada",
+     "alberca",
+     "batuecas",
+     "ciudad rodrigo",
+     "bejar",
+     "arribes"
+    ],
+    "en": [
+     "visit",
+     "what to see",
+     "excursion",
+     "day trip",
+     "alberca",
+     "batuecas",
+     "ciudad rodrigo",
+     "bejar",
+     "arribes"
+    ],
+    "fr": [
+     "visiter",
+     "a voir",
+     "excursion",
+     "escapade",
+     "alberca",
+     "batuecas",
+     "ciudad rodrigo",
+     "bejar",
+     "arribes"
+    ]
+   },
+   "a": {
+    "es": "Su web propone, a corta distancia en coche, La Alberca y el Valle de las Batuecas, las murallas de Ciudad Rodrigo, la arquitectura señorial de Béjar y el Parque Natural de Las Arribes del Duero. A pie, la Plaza Mayor, la Universidad, las Catedrales, la Casa de las Conchas y el Puente Romano.",
+    "ca": "La seva web proposa, a curta distància en cotxe, La Alberca i la Vall de les Batuecas, les muralles de Ciudad Rodrigo, l'arquitectura senyorial de Béjar i el Parc Natural de Las Arribes del Duero. A peu, la Plaza Mayor, la Universitat, les Catedrals, la Casa de las Conchas i el Pont Romà.",
+    "en": "Its website suggests, a short drive away, La Alberca and the Batuecas Valley, the walls of Ciudad Rodrigo, the stately architecture of Béjar and the Las Arribes del Duero Natural Park. On foot, the Plaza Mayor, the University, the Cathedrals, the Casa de las Conchas and the Roman Bridge.",
+    "fr": "Son site propose, à courte distance en voiture, La Alberca et la vallée des Batuecas, les remparts de Ciudad Rodrigo, l'architecture seigneuriale de Béjar et le parc naturel de Las Arribes del Duero. À pied, la Plaza Mayor, l'Université, les Cathédrales, la Casa de las Conchas et le Pont romain."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/ubicacion/",
+     "quote": "Visita la Plaza Mayor a solo 10 minutos a pie, la Universidad, las Catedrales, la Casa de las Conchas o el Puente Romano."
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/ubicacion/",
+     "quote": "Descubre joyas de la provincia como La Alberca y el Valle de las Batuecas, las murallas de Ciudad Rodrigo o la arquitectura señorial de Béjar a corta distancia en coche."
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/ubicacion/",
+     "quote": "Parque Natural de Las Arribes del Duero"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirmame",
+     "mejor precio",
+     "oferta",
+     "directa"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma m",
+     "millor preu",
+     "oferta",
+     "directa"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm",
+     "best price",
+     "offer",
+     "direct"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirmez",
+     "meilleur prix",
+     "offre",
+     "directe"
+    ]
+   },
+   "a": {
+    "es": "Su web indica «mejor precio garantizado», «solo en la web oficial» y «reserva directa sin intermediarios». Para reservar con esta demo, contacta con el hotel por teléfono 923 28 26 26 o por correo (recepcion@hotelalamedapalace.com). Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "La seva web indica «millor preu garantit», «només a la web oficial» i «reserva directa sense intermediaris». Per reservar amb aquesta demo, contacta amb l'hotel per telèfon 923 28 26 26 o per correu (recepcion@hotelalamedapalace.com). Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "Its website says «best price guaranteed», «only on the official website» and «direct booking without intermediaries». To book through this demo, contact the hotel by phone 923 28 26 26 or by email (recepcion@hotelalamedapalace.com). This assistant does not confirm availability or bookings.",
+    "fr": "Son site indique «meilleur prix garanti», «uniquement sur le site officiel» et «réservation directe sans intermédiaires». Pour réserver via cette démo, contactez l'hôtel par téléphone 923 28 26 26 ou par e-mail (recepcion@hotelalamedapalace.com). Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/",
+     "quote": "Mejor precio garantizado Solo en la web oficial Reserva directa Sin intermediarios"
+    },
+    {
+     "url": "https://www.hotelalamedapalace.com/contacto/",
+     "quote": "+34 923 28 26 26 recepcion@hotelalamedapalace.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "contact"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     "contact"
+    ]
+   },
+   "a": {
+    "es": "Teléfono 923 28 26 26; correo recepcion@hotelalamedapalace.com.",
+    "ca": "Telèfon 923 28 26 26; correu recepcion@hotelalamedapalace.com.",
+    "en": "Phone 923 28 26 26; email recepcion@hotelalamedapalace.com.",
+    "fr": "Téléphone 923 28 26 26 ; e-mail recepcion@hotelalamedapalace.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/contacto/",
+     "quote": "+34 923 28 26 26 recepcion@hotelalamedapalace.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "nif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "nif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif",
+     "nif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "nif"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica que la web es propiedad de HOTALPA S.L.",
+    "ca": "El seu avís legal indica que la web és propietat d'HOTALPA S.L.",
+    "en": "Its legal notice says the website is owned by HOTALPA S.L.",
+    "fr": "Sa mention légale indique que le site appartient à HOTALPA S.L."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelalamedapalace.com/aviso-legal/",
+     "quote": "propiedad de HOTALPA S.L."
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
