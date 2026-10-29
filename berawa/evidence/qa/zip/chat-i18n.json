@@ -1,0 +1,458 @@
+{
+ "url": "http://127.0.0.1:44841/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Cuántas habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 103 habitaciones de 7 tipos: dobles con cama de matrimonio (cama doble de 150 cm, hasta 2 personas), dobles de 2 camas (20 m²), suites"
+    },
+    {
+     "q": "¿Qué equipamiento tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen wifi gratuita, TV, minibar, ventanas insonorizadas, caja fuerte y columnas de hidromasaje en los baños de mármol. La"
+    },
+    {
+     "q": "¿Hay restaurante?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tiene el Restaurante Venecia, con cocina de autor y sabores de temporada, una carta de vinos D.O. y un ambiente bajo lámparas de cristal de "
+    },
+    {
+     "q": "¿Tienen salones para eventos?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Tiene salones para bodas y eventos: Pompeya (625 m², banquetes de hasta 400 personas), Cielo del Palace (azotea de 315 m² con vistas a las c"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Está en el Paseo de la Estación 1, 37004 Salamanca: a 10 minutos a pie de la Plaza Mayor, la Universidad y las Catedrales, y a 300 metros de"
+    },
+    {
+     "q": "¿Qué historia tiene el edificio?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Su web lo presenta como un alojamiento de 5 estrellas ubicado en el antiguo Palacete de los Prada."
+    },
+    {
+     "q": "¿Qué hay para visitar cerca?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web propone, a corta distancia en coche, La Alberca y el Valle de las Batuecas, las murallas de Ciudad Rodrigo, la arquitectura señorial "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web indica «mejor precio garantizado», «solo en la web oficial» y «reserva directa sin intermediarios». Para reservar con esta demo, cont"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Teléfono 923 28 26 26; correo recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su aviso legal indica que la web es propiedad de HOTALPA S.L."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web indica «mejor precio garantizado», «solo en la web oficial» y «reserva directa sin intermediarios». Para reservar con esta demo, cont"
+    },
+    {
+     "q": "¿Tienen suites?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 103 habitaciones de 7 tipos: dobles con cama de matrimonio (cama doble de 150 cm, hasta 2 personas), dobles de 2 camas (20 m²), suites"
+    }
+   ],
+   "chips": [
+    "¿Cuántas habitaciones tiene?",
+    "¿Hay restaurante?",
+    "¿Dónde está?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "loc_p",
+    "send",
+    "svc6",
+    "svc7",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quantes habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 103 habitacions de 7 tipus: dobles amb llit de matrimoni (llit doble de 150 cm, fins a 2 persones), dobles de 2 llits (20 m²), suites de "
+    },
+    {
+     "q": "Quin equipament tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen wifi gratuïta, TV, minibar, finestres insonoritzades, caixa forta i columnes d'hidromassatge als banys de marbre. Les "
+    },
+    {
+     "q": "Hi ha restaurant?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Té el Restaurant Venecia, amb cuina d'autor i sabors de temporada, una carta de vins D.O. i un ambient sota llums de vidre de Murano."
+    },
+    {
+     "q": "Teniu salons per a esdeveniments?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Té salons per a noces i esdeveniments: Pompeya (625 m², banquets de fins a 400 persones), Cielo del Palace (terrat de 315 m² amb vistes a le"
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "És al Paseo de la Estación 1, 37004 Salamanca: a 10 minuts a peu de la Plaza Mayor, la Universitat i les Catedrals, i a 300 metres de la pri"
+    },
+    {
+     "q": "Quina història té l'edifici?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La seva web el presenta com un allotjament de 5 estrelles ubicat a l'antic Palauet dels Prada."
+    },
+    {
+     "q": "Què hi ha per visitar a prop?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La seva web proposa, a curta distància en cotxe, La Alberca i la Vall de les Batuecas, les muralles de Ciudad Rodrigo, l'arquitectura senyor"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web indica «millor preu garantit», «només a la web oficial» i «reserva directa sense intermediaris». Per reservar amb aquesta demo, "
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Telèfon 923 28 26 26; correu recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "El seu avís legal indica que la web és propietat d'HOTALPA S.L."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web indica «millor preu garantit», «només a la web oficial» i «reserva directa sense intermediaris». Per reservar amb aquesta demo, "
+    },
+    {
+     "q": "Teniu suites?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 103 habitacions de 7 tipus: dobles amb llit de matrimoni (llit doble de 150 cm, fins a 2 persones), dobles de 2 llits (20 m²), suites de "
+    }
+   ],
+   "chips": [
+    "Quantes habitacions té?",
+    "Hi ha restaurant?",
+    "On és?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "loc_p",
+    "svc6",
+    "svc7",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "How many rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 103 rooms of 7 types: doubles with a double bed (150 cm bed, up to 2 guests), twin rooms with 2 beds (20 m²), suites of 40 m² (28 sui"
+    },
+    {
+     "q": "What equipment do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have free wifi, TV, minibar, soundproof windows, a safe and hydromassage columns in the marble bathrooms. The suites add an indepe"
+    },
+    {
+     "q": "Is there a restaurant?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It has the Venecia Restaurant, with signature cuisine and seasonal flavours, a D.O. wine list and an atmosphere under Murano glass lamps."
+    },
+    {
+     "q": "Do you have event rooms?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It has rooms for weddings and events: Pompeya (625 m², banquets of up to 400 people), Cielo del Palace (a 315 m² rooftop with views of the c"
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "It is at Paseo de la Estación 1, 37004 Salamanca: 10 minutes on foot from the Plaza Mayor, the University and the Cathedrals, and 300 metres"
+    },
+    {
+     "q": "What history does the building have?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Its website presents it as a 5-star accommodation located in the former Prada Mansion (Palacete de los Prada)."
+    },
+    {
+     "q": "What is there to visit nearby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Its website suggests, a short drive away, La Alberca and the Batuecas Valley, the walls of Ciudad Rodrigo, the stately architecture of Béjar"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Its website says «best price guaranteed», «only on the official website» and «direct booking without intermediaries». To book through this d"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Phone 923 28 26 26; email recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Its legal notice says the website is owned by HOTALPA S.L."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Its website says «best price guaranteed», «only on the official website» and «direct booking without intermediaries». To book through this d"
+    },
+    {
+     "q": "Do you have suites?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 103 rooms of 7 types: doubles with a double bed (150 cm bed, up to 2 guests), twin rooms with 2 beds (20 m²), suites of 40 m² (28 sui"
+    }
+   ],
+   "chips": [
+    "How many rooms does it have?",
+    "Is there a restaurant?",
+    "Where is it?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc6",
+    "svc7",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Combien de chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 103 chambres de 7 types : doubles à lit double (lit de 150 cm, jusqu'à 2 personnes), doubles à 2 lits (20 m²), suites de 40 m² (28"
+    },
+    {
+     "q": "Quel équipement ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent du wifi gratuit, de la TV, d'un minibar, de fenêtres insonorisées, d'un coffre-fort et de colonnes d'hydromassage dan"
+    },
+    {
+     "q": "Y a-t-il un restaurant ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il dispose du Restaurant Venecia, avec cuisine d'auteur et saveurs de saison, une carte de vins D.O. et une ambiance sous des lustres en ver"
+    },
+    {
+     "q": "Avez-vous des salons pour événements ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il dispose de salons pour mariages et événements : Pompeya (625 m², banquets jusqu'à 400 personnes), Cielo del Palace (toit-terrasse de 315 "
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il se trouve Paseo de la Estación 1, 37004 Salamanque : à 10 minutes à pied de la Plaza Mayor, de l'Université et des Cathédrales, et à 300 "
+    },
+    {
+     "q": "Quelle histoire a le bâtiment ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Son site le présente comme un hébergement 5 étoiles situé dans l'ancien Palacete de los Prada."
+    },
+    {
+     "q": "Que visiter à proximité ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Son site propose, à courte distance en voiture, La Alberca et la vallée des Batuecas, les remparts de Ciudad Rodrigo, l'architecture seigneu"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Son site indique «meilleur prix garanti», «uniquement sur le site officiel» et «réservation directe sans intermédiaires». Pour réserver via "
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Téléphone 923 28 26 26 ; e-mail recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sa mention légale indique que le site appartient à HOTALPA S.L."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 28 26 26 · recepcion@hotelalamedapalace.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Son site indique «meilleur prix garanti», «uniquement sur le site officiel» et «réservation directe sans intermédiaires». Pour réserver via "
+    },
+    {
+     "q": "Avez-vous des suites ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 103 chambres de 7 types : doubles à lit double (lit de 150 cm, jusqu'à 2 personnes), doubles à 2 lits (20 m²), suites de 40 m² (28"
+    }
+   ],
+   "chips": [
+    "Combien de chambres a-t-il ?",
+    "Y a-t-il un restaurant ?",
+    "Où est-il ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
